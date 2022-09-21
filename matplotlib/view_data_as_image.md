@@ -1,6 +1,6 @@
 # View data as an image
 
-Use `imshow` to view your data as a 2-D image
+Use `imshow` to view your data as a 2-D image.
 
 ```python
 import numpy as np

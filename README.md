@@ -4,6 +4,7 @@ Today I Learned
 - [TIL](#til)
     - [Git](#git)
     - [Github](#github)
+    - [Matplotlib](#matplotlib)
     - [Python](#python)
     - [PyTorch](#pytorch)
     - [Shortcuts](#shortcuts)
@@ -15,6 +16,9 @@ Today I Learned
 
 ### Github
 - [Use emojis in Github Markdown](github/use_emojis_in_github.md)
+
+### Matplotlib
+- [View Data as Image](matplotlib/view_data_as_image.md)
 
 ### Python
 - [Expanding f-strings](python/expanding_f_strings.md)
