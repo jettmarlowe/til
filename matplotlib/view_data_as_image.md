@@ -16,4 +16,4 @@ plt.imshow(tmp)
 #    [0.55202248 0.49235785]]
 ```
 
-![](matplotlib/imshow.png)
+![matplotlib_image](imshow.png)
