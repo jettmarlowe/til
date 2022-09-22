@@ -4,6 +4,7 @@ Today I Learned
 - [TIL](#til)
     - [Git](#git)
     - [Github](#github)
+    - [Machine Learning](#machine-learning)
     - [Matplotlib](#matplotlib)
     - [Python](#python)
     - [PyTorch](#pytorch)
@@ -16,6 +17,9 @@ Today I Learned
 
 ### Github
 - [Use emojis in Github Markdown](github/use_emojis_in_github.md)
+
+### Machine Learning
+- [Talking about the Softmax Activation Function with a Cat](machine_learning/softmax_activation_function.md)
 
 ### Matplotlib
 - [View Data as Image](matplotlib/view_data_as_image.md)
