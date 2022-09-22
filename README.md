@@ -8,7 +8,7 @@ Today I Learned
     - [Python](#python)
     - [PyTorch](#pytorch)
     - [Shortcuts](#shortcuts)
-  - [Thank you](#thank-you)
+- [Thank you](#thank-you)
 
 
 ### Git
@@ -34,5 +34,8 @@ Today I Learned
 <br>
   
 ***
-## Thank you
-Inspired by https://github.com/jbranchaud/til
+# Thank you
+Inspired by:
+* https://github.com/jbranchaud/til
+* https://github.com/readme/guides/publishing-your-work
+* https://www.swyx.io/learn-in-public/
