@@ -2,6 +2,7 @@
 Today I Learned
 
 - [TIL](#til)
+    - [Databricks](#databricks)
     - [Git](#git)
     - [Github](#github)
     - [Machine Learning](#machine-learning)
@@ -11,6 +12,8 @@ Today I Learned
     - [Shortcuts](#shortcuts)
 - [Thank you](#thank-you)
 
+### Databricks
+- [Add Secrets to Databricks](databricks/adding_secrets.md)
 
 ### Git
 - [Merge Changes into your Branch](git/merge_changes_into_branch.md)
