@@ -10,6 +10,7 @@ Today I Learned
     - [Python](#python)
     - [PyTorch](#pytorch)
     - [Shortcuts](#shortcuts)
+    - [Tableau](#tableau)
 - [Thank you](#thank-you)
 
 ### Databricks
@@ -35,6 +36,9 @@ Today I Learned
 
 ### Shortcuts
 - [Keyboard Shortcuts](shortcuts/keyboard_shortcuts.md)
+
+### Tableau
+- [Download all Tableau Notebooks](tableau/download_notebooks.md)
 
 <br>
 <br>
