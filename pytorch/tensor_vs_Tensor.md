@@ -10,7 +10,7 @@ What is the difference between the two?
 
 It is recommended to use `torch.tensor`
 
-
+See also [What is a tensor?](../machine_learning/what_is_a_tensor.md)
 
 ## References
 * https://youtu.be/PaCmpygFfXo?t=4085
