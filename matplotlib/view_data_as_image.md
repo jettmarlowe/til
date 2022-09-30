@@ -16,4 +16,5 @@ plt.imshow(tmp)
 #    [0.55202248 0.49235785]]
 ```
 
-![matplotlib_image](imshow.png)
+<img src='https://user-images.githubusercontent.com/67592868/193312379-f762c5c0-5cfd-46a0-a1c6-cca684715967.png' alt='Data shown as 2-D image' width='300' height='300'>
+
