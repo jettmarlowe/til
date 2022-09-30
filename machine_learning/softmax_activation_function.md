@@ -1,10 +1,13 @@
 # Talking about Softmax Function with a Cat
 
+Softmax is used during model training
+
+
 cat, to neural network: 
 > what? you delivered log-counts to me? this isn't what I wanted!
 
 neural network: 
-> oops
+> oops i'm still in training :face_with_spiral_eyes:
 
 softmax: 
 > I can help
