@@ -25,7 +25,7 @@ Today I Learned
 ### Machine Learning
 - [Talking about the Softmax Activation Function with a Cat](machine_learning/softmax_activation_function.md)
 - [What is a Model Checkpoint?](machine_learning/what_is_a_checkpoint.md)
-- [What is a Model Head?](machine_learning/model_head.png)
+- [What is a Model Head?](machine_learning/what_is_a_model_head.md)
 - [What is a Tensor?](machine_learning/what_is_a_tensor.md)
 
 ### Matplotlib
