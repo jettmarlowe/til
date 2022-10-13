@@ -10,6 +10,7 @@ Today I Learned
     - [Python](#python)
     - [PyTorch](#pytorch)
     - [Shortcuts](#shortcuts)
+    - [SQL](#sql)
     - [Tableau](#tableau)
 - [Thank you](#thank-you)
 
@@ -39,6 +40,9 @@ Today I Learned
 
 ### Shortcuts
 - [Keyboard Shortcuts](shortcuts/keyboard_shortcuts.md)
+
+### SQL
+- [Extract user and domain from email](sql/extract_user_and_domain_from_email.md)
 
 ### Tableau
 - [Download all Tableau Notebooks](tableau/download_notebooks.md)
