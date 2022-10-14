@@ -34,6 +34,7 @@ Today I Learned
 
 ### Python
 - [Expanding f-strings](python/expanding_f_strings.md)
+- [What is Yanking a Version in Pip?](python/yanked_version_pip.md)
 
 ### PyTorch
 - [Use torch.tensor not torch.Tensor](pytorch/tensor_vs_Tensor.md)
