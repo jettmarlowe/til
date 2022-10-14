@@ -20,6 +20,6 @@ A bunch of people may be using your package and specific version and if you dele
 ## References
 * [PEP 592 - Adding "Yank" Support](https://peps.python.org/pep-0592/)
 * [What to do when you botch a release on PyPI](https://snarky.ca/what-to-do-when-you-botch-a-release-on-pypi/)
-* [How to fix PIP yanked version warnings](?https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/)
+* [How to fix PIP yanked version warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/)
 
 
