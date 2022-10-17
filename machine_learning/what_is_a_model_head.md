@@ -12,7 +12,7 @@ It's not akin to a _human_ head and body. Think instead of a tool (for example -
 
 
 It's basically a thing you put on the model so it can handle a specific task.  
-The output of the Transformer model is sent directly to the model head to be processed.  
+For example, the output of the Hugging Face Transformer model is sent directly to the model head to be processed.  
 <br> 
 This cordless drill analogy doesn't track exactly, since in certain cases there can be multiple heads on one layer, or one head feeding data to another. 
 <br>
