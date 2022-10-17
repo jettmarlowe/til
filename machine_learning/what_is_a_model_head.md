@@ -24,7 +24,7 @@ So we can do transfer learning.
 
 
 
-# References
+### References
 * https://stackoverflow.com/questions/56004483/what-is-a-multi-headed-model-and-what-exactly-is-a-head-in-a-model
 * https://forums.fast.ai/t/lesson-1-head-of-a-model-specifics/77262/2
 * https://forums.fast.ai/t/terminology-question-head-of-neural-network/14819
