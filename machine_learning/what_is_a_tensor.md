@@ -9,4 +9,6 @@ If it is 0-D, the tensor is known as a scalar.
 If it is 1-D, the tensor is known as a vector.  
 It is is 2-D, the tensor is known as a matrix.  
 <br>
+
+## What's the point of a tensor?
 Tensors are helpful because you can do math on them, or combinations of them, e.g. the dot product.
