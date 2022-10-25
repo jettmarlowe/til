@@ -19,6 +19,7 @@ Today I Learned
 
 ### Git
 - [Merge Changes into your Branch](git/merge_changes_into_branch.md)
+- [Who am I and how did I get here? (with Git)](git/git_user_and_remote.md)
 
 ### Github
 - [Use emojis in Github Markdown](github/use_emojis_in_github.md)
@@ -36,6 +37,7 @@ Today I Learned
 ### Python
 - [Debugging in Python](python/debugging.md)
 - [Expanding f-strings](python/expanding_f_strings.md)
+- [Python Style Guide: PEP 8](python/pep8.md)
 - [What is a Generator?](python/what_is_a_generator.md)
 - [What is Yanking a Version in Pip?](python/yanked_version_pip.md)
 
