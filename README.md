@@ -37,6 +37,7 @@ Today I Learned
 ### Python
 - [Debugging in Python](python/debugging.md)
 - [Expanding f-strings](python/expanding_f_strings.md)
+- [Grocery Shopping with the Python WITH statement](python/python_with.md)
 - [Python Style Guide: PEP 8](python/pep8.md)
 - [What is a Generator?](python/what_is_a_generator.md)
 - [What is Yanking a Version in Pip?](python/yanked_version_pip.md)
