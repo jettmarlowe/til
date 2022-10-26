@@ -45,7 +45,7 @@ demo.launch()
 # Once done, __exit__ and the demo automatically gets closed
 ```
 
-For the Gradio example, if you look at https://github.com/gradio-app/gradio/blob/main/gradio/blocks.py, you can see exactly where the `__enter__` and `__exit__` are implemented in classBlockContext
+For the Gradio example, if you look at https://github.com/gradio-app/gradio/blob/main/gradio/blocks.py, you can see exactly where the `__enter__` and `__exit__` are implemented in the class BlockContext.
 
 
 
