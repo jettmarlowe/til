@@ -28,6 +28,6 @@ Having the exception at the bottom of the traceback makes it easier to read in c
 * Python also has a [```logging``` library](https://docs.python.org/3/library/logging.html)
   
   
-### Resources
+### References
 * [What is a Python Traceback?](https://realpython.com/python-traceback/)
 * [pdb, the Python Debugger](https://docs.python.org/3/library/pdb.html)

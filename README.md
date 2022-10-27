@@ -7,6 +7,7 @@ Today I Learned
     - [Github](#github)
     - [Machine Learning](#machine-learning)
     - [Matplotlib](#matplotlib)
+    - [Pandas](#pandas)
     - [Python](#python)
     - [PyTorch](#pytorch)
     - [Shortcuts](#shortcuts)
@@ -33,6 +34,9 @@ Today I Learned
 
 ### Matplotlib
 - [View Data as Image](matplotlib/view_data_as_image.md)
+
+### Pandas
+- [GroupBy with Renamed Columns](pandas/pandas_groupby.md)
 
 ### Python
 - [Debugging in Python](python/debugging.md)
