@@ -13,7 +13,8 @@ OpenQASM is the open source quantum assembly language. It allows focused work on
 |OpenQASM|C|Intermediate level|Assembly Language|Describing and visualizing quantum circuits|  
 <br>
 <br>
-### Code Flow
+
+### Code Flow 
 * Human writes Qiskit 
 * Qiskit translates Python into OpenQASM (quantum machine language) 
 * Stuff gets optimized  
