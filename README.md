@@ -10,6 +10,7 @@ Today I Learned
     - [Pandas](#pandas)
     - [Python](#python)
     - [PyTorch](#pytorch)
+    - [Qiskit](#qiskit)
     - [Shortcuts](#shortcuts)
     - [SQL](#sql)
     - [Tableau](#tableau)
@@ -49,6 +50,9 @@ Today I Learned
 
 ### PyTorch
 - [Use torch.tensor not torch.Tensor](pytorch/tensor_vs_Tensor.md)
+
+### Qiskit
+- [Qiskit vs OpenQASM](qiskit/qiskit_vs_openqasm.md)
 
 ### Shortcuts
 - [Keyboard Shortcuts](shortcuts/keyboard_shortcuts.md)
