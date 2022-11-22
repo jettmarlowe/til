@@ -5,12 +5,16 @@
 
 ## Jupyter Notebook
 * Comment many lines: highlight the lines and then CMD + /
+* Display text in row without truncation: `pd.set_option('display.max_colwidth', None)`
 
 ## Oracle SQL Developer
 * Comment many lines: OPTION + CMD + /
 * Edit multiple lines with a cursor: CTRL + Shift
 * Unindent multiple lines: Shift + Tab
 * Turn off substitution variables: `set define off;`
+
+## PySpark
+* Get column max: `df.agg({'col_name': 'max'}).collect()`
 
 ## Python REPL
 * Exit the help: `q`
