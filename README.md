@@ -26,6 +26,7 @@ Today I Learned
 
 ### Github
 - [Use emojis in Github Markdown](github/use_emojis_in_github.md)
+- [Search for code in non-default Github branch](github/search_non_default_branch.md)
 
 ### Machine Learning
 - [Comparison of Fast vs Slow Tokenizers](machine_learning/fast_vs_slow_tokenizers.md)
