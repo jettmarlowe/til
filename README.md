@@ -2,6 +2,7 @@
 Today I Learned
 
 - [TIL](#til)
+    - [Command Line](#command-line)
     - [Databricks](#databricks)
     - [Git](#git)
     - [Github](#github)
@@ -15,6 +16,9 @@ Today I Learned
     - [SQL](#sql)
     - [Tableau](#tableau)
 - [Thank you](#thank-you)
+
+### Command Line
+- [What is the Command Line?](command_line/what_is_cli.md)
 
 ### Databricks
 - [Add Secrets to Databricks](databricks/adding_secrets.md)
@@ -46,6 +50,7 @@ Today I Learned
 - [Expanding f-strings](python/expanding_f_strings.md)
 - [Grocery Shopping with the Python WITH statement](python/python_with.md)
 - [Python Style Guide: PEP 8](python/pep8.md)
+- [Using Python's staticmethod vs classmethod](python/staticmethod_v_classmethod.md)
 - [What is a Generator?](python/what_is_a_generator.md)
 - [What is Yanking a Version in Pip?](python/yanked_version_pip.md)
 
