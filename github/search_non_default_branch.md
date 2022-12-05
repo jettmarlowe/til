@@ -1,6 +1,6 @@
 # Searching code in a non-default Github branch
 
-Only the default branch is indexed in Github, so if you need to search for code in another specific branch you need to use a workaround.
+Only the default branch is indexed in Github, so if you need to search for code in another specific branch you'll need to use a workaround.
 
 ```bash
 # Clone the repo locally
