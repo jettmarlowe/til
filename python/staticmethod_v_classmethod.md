@@ -7,7 +7,7 @@
 * You can use it when your function doesn't need to know or remember anything about the class but logically the function makes sense to store within that class.
 ### Should I use it?
 * No - don't use it unless absolutely necessary. 
-* It still exists for legacy reasons but apparently was [initially a mistake](https://mail.python.org/pipermail/python-ideas/2016-July/041189.html).
+* `@staticmethod` is like code debris :wastebasket: that still exists for legacy reasons but apparently was [initially a mistake](https://mail.python.org/pipermail/python-ideas/2016-July/041189.html).
   
     
 ## @classmethod
