@@ -2,6 +2,7 @@
 Today I Learned
 
 - [TIL](#til)
+    - [AWS](#aws)
     - [Command Line](#command-line)
     - [Databricks](#databricks)
     - [Git](#git)
@@ -16,6 +17,9 @@ Today I Learned
     - [SQL](#sql)
     - [Tableau](#tableau)
 - [Thank you](#thank-you)
+
+### AWS
+- [Sending CloudWatch Alerts into MS Teams](aws/cloudwatch_to_ms_teams.md)
 
 ### Command Line
 - [What is the Command Line?](command_line/what_is_cli.md)
