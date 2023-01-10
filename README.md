@@ -27,6 +27,7 @@ Today I Learned
 ### Databricks
 - [Add Secrets to Databricks](databricks/adding_secrets.md)
 - [List Secrets within Databricks Notebook](databricks/list_secrets.md)
+- [Databricks Runtime](databricks/runtime.md)
 
 ### Git
 - [Merge Changes into your Branch](git/merge_changes_into_branch.md)
