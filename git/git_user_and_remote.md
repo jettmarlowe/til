@@ -1,7 +1,7 @@
 # Who am I and how did I get here? (with Git)
 When I come back to an old project on my local machine, I need to know which git account I am using and where the code lives on the remote server. 
 
-### Who am I in git?
+## Who am I in git?
 ```bash
 # Return your username and email for git in this particular directory
 git config user.name 
@@ -12,7 +12,7 @@ git config user.email
 # myemail@emailaddress.com
 ```
 
-### Where does the code live?
+## Where does the code live?
 ```bash
 git remote -v 
 
@@ -30,7 +30,7 @@ git remote -v
 
 ```
 
-### Bonus: 
+## Bonus: 
 ### After making a commit but before pushing code, make sure the user.name and user.email are set correctly
 ```bash
 git log
@@ -40,7 +40,17 @@ git log
 # CTRL + Z to exit git log
 ```
 
+## Way Easier Bonus:
+### Set Git alias to see "git last"
+```bash
+$ git config --global alias.last 'log -1 HEAD'
+# when you type "git last" it will alway show the last commit
+
+```
+
+
 
 ### References
 * [Setting your Git username for a single repository](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git)
 * [How to Change Git Remote Origin](https://devconnected.com/how-to-change-git-remote-origin/)
+* [Set Git Alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)
