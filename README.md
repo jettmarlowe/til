@@ -28,6 +28,7 @@ Today I Learned
 - [Add Secrets to Databricks](databricks/adding_secrets.md)
 - [List Secrets within Databricks Notebook](databricks/list_secrets.md)
 - [Databricks Runtime](databricks/runtime.md)
+- [Migrating S3 Files to new Databricks environment](databricks/migrate_s3_files.md)
 
 ### Git
 - [Merge Changes into your Branch](git/merge_changes_into_branch.md)
