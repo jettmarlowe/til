@@ -7,6 +7,10 @@
 * Comment many lines: highlight the lines and then CMD + /
 * Display text in row without truncation: `pd.set_option('display.max_colwidth', None)`
 
+## Microsoft Teams
+* In-line code: one back-tick then paste code then second back-tick
+* Multi-line code block: three back-ticks ``` then space-bar and paste in code
+
 ## Oracle SQL Developer
 * Comment many lines: OPTION + CMD + /
 * Edit multiple lines with a cursor: CTRL + Shift
