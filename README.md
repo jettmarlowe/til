@@ -31,6 +31,7 @@ Today I Learned
 - [Migrating S3 Files to new Databricks environment](databricks/migrate_s3_files.md)
 
 ### Git
+- [Git Diff as a tool locally](git/git_diff.md)
 - [Merge Changes into your Branch](git/merge_changes_into_branch.md)
 - [Who am I and how did I get here? (with Git)](git/git_user_and_remote.md)
 
