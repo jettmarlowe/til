@@ -26,6 +26,7 @@ Today I Learned
 
 ### Databricks
 - [Add Secrets to Databricks](databricks/adding_secrets.md)
+- [Format Python code with Black](databricks/black.md)
 - [List Secrets within Databricks Notebook](databricks/list_secrets.md)
 - [Databricks Runtime](databricks/runtime.md)
 - [Migrating S3 Files to new Databricks environment](databricks/migrate_s3_files.md)
@@ -53,6 +54,7 @@ Today I Learned
 - [GroupBy with Renamed Columns](pandas/pandas_groupby.md)
 
 ### Python
+- [Assert is not a Function](python/assert.md)
 - [Debugging in Python](python/debugging.md)
 - [Expanding f-strings](python/expanding_f_strings.md)
 - [Grocery Shopping with the Python WITH statement](python/python_with.md)
