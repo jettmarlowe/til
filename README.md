@@ -52,6 +52,7 @@ Today I Learned
 
 ### Pandas
 - [GroupBy with Renamed Columns](pandas/pandas_groupby.md)
+- [Writing multiple dataframes using pandas.DataFrame.to_excel](pandas/writing_multiple_dfs.md)
 
 ### Python
 - [Assert is not a Function](python/assert.md)
