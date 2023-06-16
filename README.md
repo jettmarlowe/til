@@ -22,6 +22,7 @@ Today I Learned
 - [Sending CloudWatch Alerts into MS Teams](aws/cloudwatch_to_ms_teams.md)
 
 ### Command Line
+- [Print a Range of Lines to Terminal](command_line/print_range_of_lines.md)
 - [What is the Command Line?](command_line/what_is_cli.md)
 
 ### Databricks
@@ -37,6 +38,7 @@ Today I Learned
 - [Who am I and how did I get here? (with Git)](git/git_user_and_remote.md)
 
 ### Github
+- [Adjust image size in Github Markdown](github/adjust_image_size.md)
 - [Use emojis in Github Markdown](github/use_emojis_in_github.md)
 - [Search for code in non-default Github branch](github/search_non_default_branch.md)
 
