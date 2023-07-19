@@ -31,6 +31,7 @@ Today I Learned
 - [List Secrets within Databricks Notebook](databricks/list_secrets.md)
 - [Databricks Runtime](databricks/runtime.md)
 - [Migrating S3 Files to new Databricks environment](databricks/migrate_s3_files.md)
+- [Return tables and sizes](databricks/return_table_sizes.md)
 
 ### Git
 - [Git Diff as a tool locally](git/git_diff.md)
