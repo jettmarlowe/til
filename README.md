@@ -19,6 +19,7 @@ Today I Learned
 - [Thank you](#thank-you)
 
 ### AWS
+- [Installing Python packages in AWS Glue Jobs](aws/glue_install_packages.md)
 - [Sending CloudWatch Alerts into MS Teams](aws/cloudwatch_to_ms_teams.md)
 
 ### Command Line
