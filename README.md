@@ -21,6 +21,7 @@ Today I Learned
 ### AWS
 - [Installing Python packages in AWS Glue Jobs](aws/glue_install_packages.md)
 - [Sending CloudWatch Alerts into MS Teams](aws/cloudwatch_to_ms_teams.md)
+- [Using CloudFormation with AWS ECS to Specify Secrets](aws/specifying_secrets_ecs.md)
 
 ### Command Line
 - [Print a Range of Lines to Terminal](command_line/print_range_of_lines.md)
