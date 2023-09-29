@@ -24,6 +24,7 @@ Today I Learned
 - [Using CloudFormation with AWS ECS to Specify Secrets](aws/specifying_secrets_ecs.md)
 
 ### Command Line
+- [Find PIDs for Ports](command_line/find_pids_on_port.md)
 - [Print a Range of Lines to Terminal](command_line/print_range_of_lines.md)
 - [What is the Command Line?](command_line/what_is_cli.md)
 
