@@ -49,6 +49,7 @@ Today I Learned
 ### Machine Learning
 - [Comparison of Fast vs Slow Tokenizers](machine_learning/fast_vs_slow_tokenizers.md)
 - [Talking about the Softmax Activation Function with a Cat](machine_learning/softmax_activation_function.md)
+- [What is a GPU?](machine_learning/what_is_a_gpu.md)
 - [What is a Model Checkpoint?](machine_learning/what_is_a_checkpoint.md)
 - [What is a Model Head?](machine_learning/what_is_a_model_head.md)
 - [What is a Tensor?](machine_learning/what_is_a_tensor.md)
