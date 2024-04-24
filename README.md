@@ -19,6 +19,7 @@ Today I Learned
 - [Thank you](#thank-you)
 
 ### AWS
+- [Add global tags to resources created with AWS SAM](aws/sam_adding_tags.md)
 - [Installing Python packages in AWS Glue Jobs](aws/glue_install_packages.md)
 - [Sending CloudWatch Alerts into MS Teams](aws/cloudwatch_to_ms_teams.md)
 - [Using CloudFormation with AWS ECS to Specify Secrets](aws/specifying_secrets_ecs.md)
